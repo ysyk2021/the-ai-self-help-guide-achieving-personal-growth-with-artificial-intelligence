@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI in Self-Help
-========================================
 
 While artificial intelligence (AI) has the potential to revolutionize self-help, it also presents several challenges. In this chapter, we will discuss some of the challenges related to ethical considerations, legal considerations, and privacy and security concerns when using AI for self-help.
 

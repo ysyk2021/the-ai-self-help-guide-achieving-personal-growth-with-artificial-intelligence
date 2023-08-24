@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Self-Help
-===================================
 
 As artificial intelligence (AI) becomes more prevalent in self-help, it is essential to effectively manage and address potential issues related to data management, transparency and accountability, and bias. In this chapter, we will discuss strategies for effective management of AI in self-help.
 

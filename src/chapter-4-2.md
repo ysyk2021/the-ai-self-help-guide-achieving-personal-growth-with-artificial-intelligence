@@ -1,5 +1,3 @@
-Legal considerations
-==============================================================
 
 Artificial intelligence (AI) has the potential to provide valuable insights and support for personal growth, but its use also presents potential legal challenges. This chapter will discuss some of the challenges related to legal considerations when using AI for self-help.
 

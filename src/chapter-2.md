@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Self-Help
-========================================
 
 Artificial intelligence (AI) is rapidly transforming the self-help industry, providing personalized insights and support for personal growth. In this chapter, we will discuss the historical overview of AI in self-help, types of AI in self-help, and how AI works in self-help.
 

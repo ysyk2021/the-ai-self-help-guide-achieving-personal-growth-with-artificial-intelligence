@@ -1,5 +1,3 @@
-Goal setting and achievement
-========================================================================
 
 Goal setting is an essential aspect of personal growth, and artificial intelligence (AI) can be a powerful tool to help individuals set and achieve their goals. In this chapter, we will explore some specific applications of AI in self-help for goal setting and achievement.
 

@@ -1,5 +1,3 @@
-Preparing for the Future
-==============================================================
 
 Artificial intelligence (AI) is rapidly evolving, and its potential applications in self-help are expanding. In this chapter, we will explore the future of AI in self-help and how to prepare for it.
 

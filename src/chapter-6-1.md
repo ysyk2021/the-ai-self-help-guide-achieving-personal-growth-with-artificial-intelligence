@@ -1,5 +1,3 @@
-Developing an AI strategy
-==================================================================
 
 Developing an AI strategy is critical for successfully implementing AI in self-help. An AI strategy should align with an organization's goals and objectives and account for technical requirements, data quality, and ethical considerations.
 

@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-=============================================================================
 
 As artificial intelligence (AI) becomes more prevalent in self-help, it is essential to ensure transparency and accountability in its use. In this chapter, we will discuss the importance of transparency and accountability in managing AI in self-help.
 

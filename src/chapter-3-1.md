@@ -1,5 +1,3 @@
-Enhanced Decision-Making
-================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the field of self-help, providing personalized recommendations, virtual coaching, and other tools to help individuals achieve personal growth and development. In this chapter, we will explore how AI can enhance decision-making in self-help.
 

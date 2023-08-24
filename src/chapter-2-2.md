@@ -1,5 +1,3 @@
-Types of AI in self-help
-==================================================================
 
 Artificial intelligence (AI) is rapidly transforming the self-help industry, providing personalized insights and support for personal growth. In this chapter, we will discuss the different types of AI used in self-help.
 

@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Self-Help
-==========================================
 
 Artificial intelligence (AI) can be a powerful tool for self-help, providing personalized insights and support for personal growth. This chapter will explore some applications of AI in self-help, including goal setting and achievement, time management, and mindfulness and stress reduction.
 
