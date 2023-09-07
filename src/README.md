@@ -12,3 +12,7 @@ Finally, AI can offer a new perspective on personal growth. By using algorithms 
 In this book, we will explore the different ways AI can be used for personal growth, as well as the potential benefits and limitations of these tools. We will also provide practical tips and strategies for integrating AI-powered self-help into your daily routine. Whether you are looking to improve your mental health, increase your productivity, or enhance your relationships, this book will provide a roadmap for achieving personal growth with AI.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
