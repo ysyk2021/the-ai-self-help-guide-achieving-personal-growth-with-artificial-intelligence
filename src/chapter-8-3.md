@@ -1,5 +1,4 @@
-Chapter 11: Preparing for the Future
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how to prepare for the future in the context of using artificial intelligence (AI) for self-help and achieving personal growth. As AI continues to advance rapidly, it is crucial to adapt and stay ahead of the curve. Let's delve into the strategies and considerations for preparing ourselves for the future with AI.
 

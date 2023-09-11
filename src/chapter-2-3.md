@@ -1,5 +1,4 @@
-Chapter 13: How AI Works in Self-Help
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the inner workings of AI systems in the context of self-help. By understanding the underlying mechanisms, we can better grasp how AI is leveraged to enhance personal growth and self-improvement. Let's delve into the key components and processes that drive AI in self-help.
 

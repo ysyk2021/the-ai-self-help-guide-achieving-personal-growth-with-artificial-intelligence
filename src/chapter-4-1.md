@@ -1,5 +1,4 @@
-Chapter 8: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that arise when using artificial intelligence in self-help and personal growth. AI has the potential to transform our lives positively, but it also raises concerns about privacy, bias, and accountability. As individuals and society continue to embrace AI, it is critical to consider the ethical implications of its use.
 

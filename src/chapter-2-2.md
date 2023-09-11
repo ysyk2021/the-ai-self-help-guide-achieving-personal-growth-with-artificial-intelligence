@@ -1,5 +1,4 @@
-Chapter 14: Types of AI in Self-Help
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of AI that are used in self-help applications. These diverse AI technologies and techniques play a crucial role in providing personalized guidance and support for individuals seeking personal growth and self-improvement.
 

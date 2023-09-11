@@ -1,5 +1,4 @@
-Chapter 10: Developing an AI Strategy
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of developing an AI strategy for self-help and personal growth. A well-defined strategy is crucial to leverage the potential of AI effectively and achieve meaningful outcomes. By following these steps, individuals and organizations can develop a comprehensive AI strategy.
 

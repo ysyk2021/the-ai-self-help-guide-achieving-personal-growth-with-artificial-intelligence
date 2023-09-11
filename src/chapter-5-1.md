@@ -1,5 +1,4 @@
-Chapter 10: Goal Setting and Achievement
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of artificial intelligence (AI) in goal setting and achievement for personal growth. With AI-powered self-help tools becoming more prevalent, leveraging AI to set and achieve goals can enhance motivation, provide personalized guidance, and track progress. Let's delve into how AI can support individuals in their journey toward personal growth and achievement.
 
